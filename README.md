@@ -4,7 +4,7 @@ Git Commands
 ============
 _A list of my commonly used Git commands_
 
-*If you are interested in Git aliases, have a look at `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
+*If you are interested read Git Documents, have a look at here: https://git-scm.com/doc*
 
 --
 
